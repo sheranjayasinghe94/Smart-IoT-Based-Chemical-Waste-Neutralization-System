@@ -225,7 +225,7 @@ ESP32-S3/
 └── README.md               # This file
 ```
 
-## 🐛 Troubleshooting
+## 🚀 Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
@@ -270,32 +270,6 @@ Starting pH monitoring...
 
 ADC: 2458  Voltage: 2.501 V  pH: 7.00  (NEUTRAL)
 ```
-
-## 🔐 Security Notes
-
-- **Credentials**: Never commit credentials to version control. Use `.gitignore` to protect sensitive files
-- **Azure Connection String**: Contains device key. Keep secure and rotate regularly
-- **WiFi Password**: Use strong, unique passwords
-- **Blynk Auth Token**: Treat like a password. Regenerate if compromised
-
-## 📄 License
-
-This project is open source. Modify and use as needed for your applications.
-
-## 🤝 Contributing
-
-Contributions welcome! Please:
-1. Test thoroughly before submitting
-2. Document any hardware/configuration changes
-3. Follow the existing code style
-
-## 📞 Support
-
-For issues or questions:
-1. Check the troubleshooting section
-2. Review serial monitor output
-3. Verify wiring and connections
-4. Check sensor calibration values
 
 ## 🎯 Future Enhancements
 
