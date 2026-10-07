@@ -8,7 +8,7 @@
   <em>Completed prototype of the Smart IoT-Based Chemical Waste Neutralisation System.</em>
 </p>
 
-### ➤ Key Features: 
+### Key Features: 
 
 - **Real-time pH Monitoring**: Continuous pH sensor readings with EMA filtering for stable measurements
 - **Dual Cloud Integration**: Blynk IoT for mobile app monitoring and notifications | Azure IoT Hub for enterprise data logging
@@ -32,7 +32,7 @@ visualisation, and cloud connectivity through the ESP32-S3. </p>
   <em>Overall system architecture showing the interaction between sensing, edge processing, actuation, cloud services, and user interfaces.</em>
 </p>
 
-## ➤ Hardware Requirements
+## Hardware Requirements
 
 | Component | Specification | Pin Configuration |
 |---|---|---|
@@ -43,7 +43,7 @@ visualisation, and cloud connectivity through the ESP32-S3. </p>
 | Power Supply | USB power (via ESP32) or external 5V | — |
 
 
-## ➤ Software Requirements
+## Software Requirements
 
 - PlatformIO IDE or Arduino IDE
 - ESP32 board support
